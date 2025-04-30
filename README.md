@@ -75,9 +75,9 @@ After training:
 
 ---
 
-## 🖼️ Screenshots (optional)
-![image](https://github.com/user-attachments/assets/b38e7c61-1396-40ee-a2c0-9658716cbcc5)
+## 🖼️ Screenshots
 - correct detection of the class "hello"
+![image](https://github.com/user-attachments/assets/b38e7c61-1396-40ee-a2c0-9658716cbcc5)
 - 📊Model Accuracy and loss during training
-- ![WhatsApp Image 2025-03-29 at 17 51 24_c9d3a8d4](https://github.com/user-attachments/assets/26a8cd9e-9b4e-44aa-b4b7-275f1c4eb4a9)
+![WhatsApp Image 2025-03-29 at 17 51 24_c9d3a8d4](https://github.com/user-attachments/assets/26a8cd9e-9b4e-44aa-b4b7-275f1c4eb4a9)
 
