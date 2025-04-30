@@ -1,7 +1,19 @@
 
 # ✨ Sign Language Recognition System (LSTM + MediaPipe)
 
-A deep learning-based real-time gesture recognition system using computer vision and LSTM networks.
+This project is a real-time sign language recognition system that uses a webcam to detect and classify hand and body gestures into predefined phrases such as "hi how are you" and "thank you so much". It leverages MediaPipe for landmark detection (face, pose, and hands) and a Long Short-Term Memory (LSTM) neural network to learn and predict gesture sequences over time.
+
+Key features include:
+
+-Real-time gesture capture using OpenCV and MediaPipe
+
+-Sequence classification using an LSTM-based neural network
+
+-Evaluation with classification report and confusion matrix
+
+-Live webcam inference and overlay of predicted text
+
+-Modular and extensible for more gesture classes
 
 ---
 
